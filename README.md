@@ -40,7 +40,7 @@ A template for adding and updating a personal readme page for your github! Be su
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmphil&layout=compact" alt="jmphil" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmphil&layout=compact" alt="jmphil" /></p>
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=jmphil&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
