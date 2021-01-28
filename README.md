@@ -34,12 +34,13 @@ A template for adding and updating a personal readme page for your github! Be su
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/codepen username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen username" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a><br>
 
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmphil&layout=compact" alt="jmphil" /></p>
+
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=jmphil&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
