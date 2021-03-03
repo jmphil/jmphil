@@ -10,31 +10,31 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmphil" alt="jmphil" /></a> </p>
 
 
-- 🔭 I’m currently working on ["project name"](Link to project)
+- 🔭 I’m currently working on a capstone project
 
-- 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
+- 🌱 I’m currently learning **JavaScript, Python, React, Redux, Node, and PostgreSQL**
 
-- 👯 I’m looking to collaborate on ["project name"](link to project)
 
-- 🤝 I’m looking for help with ["project name"](link to project)
 
-- 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
 
-- 📝 I regulary write articles on [Link TO Blog](Link TO Blog)
 
-- 💬 Ask me about **"skills you are confident in"**
+- 👨‍💻 All of my projects are available at https://mattphillips.page
 
-- 📫 How to reach me ** **
 
-- 📄 Know about my experiences [Link TO Resume](Link TO Resume)
 
-- ⚡ Fun fact **List some fun facts about yourself!**
+
+
+- 📫 How to reach me **justmattphillips@gmail.com**
+
+- 📄 Know about my experiences https://www.linkedin.com/in/justmattphillips/
+
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/codepen username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen username" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/justmphil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justmphil" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/justmattphillips" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justmphil" height="30" width="40" /></a>
 
 
 
