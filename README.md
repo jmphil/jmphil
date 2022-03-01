@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Matt </h1>
-<h3 align="center">Technology Enthusiast from Athens, GA</h3>
+<h3 align="center">Software Developer from Athens, GA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmphil&label=Profile%20views&color=0e75b6&style=flat" alt="jmphil" /> </p>
 
