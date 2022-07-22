@@ -3,16 +3,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Matt </h1>
-<h3 align="center">Software Developer from Athens, GA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmphil&label=Profile%20views&color=0e75b6&style=flat" alt="jmphil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmphil" alt="jmphil" /></a> </p>
 
 
-- 🔭 I’m currently studying to become a Cloud Engineer
 
-- 🌱 I’m currently learning **JavaScript, Python, Linux, Cloud**
+- 🌱 I’m currently learning **JavaScript, Python, Linux, Cloud, Networking, and Security**
 
 
 
