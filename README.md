@@ -10,13 +10,10 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript, Python, Linux, Cloud, Networking, and Security**
+- 🌱 I’m currently working as a Solutions Architect with primary focus on Video transport and storage. My daily technical interactions are with Linux servers, Cloud SaaS, Networking, and Databases**
 
 
 
-
-
-- 👨‍💻 All of my projects are available at https://mattphillips.page
 
 
 
